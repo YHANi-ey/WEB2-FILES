@@ -1,0 +1,9 @@
+{
+    "name": "usjr/university-app",
+    "description": "University OOP Project with PSR-4 Autoloading",
+    "autoload": {
+        "psr-4": {
+            "University\\": "src/"
+        }
+    }
+}
